@@ -21,6 +21,7 @@ psycopg2 = "*"
 flask-wtf = "*"
 flask-jwt-extended = "*"
 flask-cors = "*"
+flask-login = "*"
 
 [requires]
 python_version = "*"

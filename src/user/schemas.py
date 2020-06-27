@@ -6,3 +6,4 @@ class UserSchema(ma.SQLAlchemyAutoSchema):
 
     class Meta:
         model = User
+
