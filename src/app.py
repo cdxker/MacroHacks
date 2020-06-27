@@ -1,5 +1,5 @@
 from flask import Flask
-from src import test, user, home
+from src import user, home
 from src.ext import *
 
 def create_app(config_object='src.settings') -> Flask:
